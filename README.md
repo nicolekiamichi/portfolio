@@ -27,3 +27,7 @@ from resume import WorkExperience
 - Performed statistical assumption testing, stress-testing, and back-testing on ARIMA and logistic regression models.
 - Developed challenger models to increase model predictive power and/or interpretability.
 - Developed an automated model validation pipeline (R, Python) that reduced each validation project timeline by 40%.
+
+
+## Projects
+- [2019 College Football Playoff Predictions](https://github.com/nicolekiamichi/college-football-playoff-predictions/blob/main/college_football_playoff_predictions_2019.ipynb)
